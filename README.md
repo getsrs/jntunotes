@@ -4,7 +4,8 @@ Welcome to the JNTUH R18/R22 CSE B.Tech Notes repository! This repository contai
 
 ## Syllabus
 
-- [Download the R18/R22 B.Tech CSE Syllabus (PDF)](https://github.com/shreyamalogi/Academic-Notes-JNTUH-CSE-R18/blob/main/Copy%20of%20R18B.Tech.CSESyllabus.pdf)
+- [Download the R18/R22 B.Tech CSE Syllabus (PDF)](https://getsrs.github.io/jntunotes/Copy%20of%20R18B.Tech.CSESyllabus.pdf)
+-  [Download the R22 B.Tech CSE Syllabus (PDF)](https://getsrs.github.io/pdf/R22.pdf)
 
 ## Contents
 
