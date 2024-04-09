@@ -1,4 +1,4 @@
-# JNTUH R18 CSE B.Tech Notes
+# JNTUH R18/R22 CSE B.Tech Notes
 
 Welcome to the JNTUH R18/R22 CSE B.Tech Notes repository! This repository contains a collection of academic notes for the B.Tech Computer Science and Engineering (CSE) program at Jawaharlal Nehru Technological University Hyderabad (JNTUH) under the R18 curriculum.
 
