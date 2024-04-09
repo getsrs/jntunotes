@@ -26,6 +26,9 @@ This repository is organized by academic years and semesters, making it easy for
       - [CHEM UNIT-IV.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/CHEM/CHEM%20UNIT-IV.pdf)
       - [CHEM UNIT-V.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/CHEM/CHEM%20UNIT-V.pdf)
     - M1
+      -M1 HWN
+        -[M1 CW.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20HWN/M1%20CW.pdf)
+        -[M1 REV.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20HWN/M1%20REV.pdf)
       - [M1 UNIT-I.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20UNIT-I.pdf)
       - [M1 UNIT-II.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20UNIT-II.pdf)
       - [M1 UNIT-III.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20UNIT-III.pdf)
@@ -33,16 +36,19 @@ This repository is organized by academic years and semesters, making it easy for
       - [M1 UNIT-V.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/M1/M1%20UNIT-V.pdf)
   - **2nd Semester**
     - AP
+      - [AP CW.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20HWN/AP%20CW.pdf)
       - [AP UNIT-I.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20UNIT-I.pdf)
       - [AP UNIT-II.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20UNIT-II.pdf)
       - [AP UNIT-III.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20UNIT-III.pdf)
       - [AP UNIT-IV.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20UNIT-IV.pdf)
       - [AP UNIT-V.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/AP/AP%20UNIT-V.pdf)
     - M2
+      - [M2 REV.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/M2/M2%20HWN/M2%20REV.pdf)
       - [M2 UNIT-I.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/M2/M2%20UNIT-I.pdf)
       - [M2 UNIT-II.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/M2/M2%20UNIT-II.pdf)
       - [M2 UNIT-V.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/M2/M2%20UNIT-V.pdf)
     - PPS
+      - [PPS CW.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20HWN/PPS%20CW.pdf)
       - [PPS UNIT-I.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20UNIT-I.pdf)
       - [PPS UNIT-II.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20UNIT-II.pdf)
       - [PPS UNIT-III.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20UNIT-III.pdf)
@@ -52,6 +58,9 @@ This repository is organized by academic years and semesters, making it easy for
 - **2nd year**
   - **1st Semester**
     - ADE
+    - ADE IMPORTANT QUESTIONS
+      - [A_DE - IMP QUESTIONS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20IMPORTANT%20QUESTIONS/A_DE%20-%20IMP%20QUESTIONS.pdf)
+      - [ADE ROUGH.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20IMPORTANT%20QUESTIONS/ADE%20ROUGH.pdf)
       - [ADE UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20UNIT-I.pdf)
       - [ADE UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20UNIT-II.pdf)
       - [ADE UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20UNIT-III.pdf)
@@ -63,13 +72,41 @@ This repository is organized by academic years and semesters, making it easy for
       - [COA UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/COA%20UNIT-III.pdf)
       - [COA UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/COA%20UNIT-IV.pdf)
       - [COA UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/COA%20UNIT-V.pdf)
+    - COA-HWN
+      - [COA-HWN](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/COA/COA-HWN)
+      - [COA CW.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/COA/COA%20CW.pdf)
+      - [coa qns hwn.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/COA/coa%20qns%20hwn.pdf)
+      - [notes coa.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/COA/notes%20coa.pdf)
+      - [notes.pdf](https://getsrs.github.io/jntunotes/1st%20year/1st%20sem/COA/notes.pdf)
+    - COA-UNIT3
+     - [4 ECE - COMPUTER ORGANIZATION unit1.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/UNIT-3/4%20ECE%20-%20COMPUTER%20ORGANIZATION%20unit1.pdf)
+     - [UNIT-3 COMPUTER ARITHMETIC NOTES.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/UNIT-3/UNIT-3%20COMPUTER%20ARITHMETIC%20NOTES.pdf)
+     - [UNIT3-PART 1 Data Representation ppts.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/UNIT-3/UNIT3-PART%201%20Data%20Representation%20ppts.pdf)
+     - [unit-3 part 2 computer arithmetic.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/UNIT-3/unit-3%20part%202%20computer%20arithmetic.pdf)
+     - [COA CW.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/hwn/COA%20CW.pdf)
+
+         
     - COSM
       - [COSM UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20UNIT-I.pdf)
       - [COSM UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20UNIT-II.pdf)
       - [COSM UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20UNIT-III.pdf)
       - [COSM UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20UNIT-IV.pdf)
       - [COSM UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20UNIT-V.pdf)
+    - COSM HWN
+      - [COSM HWN](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20HWN/COSM%20CW.pdf)
+      - [COSM CW.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20CW.pdf)
+      - [COSM formulas.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20formulas.pdf)
+      - [COSM standard problems.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20standard%20problems.pdf)
+      - [COSM theorems.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/COSM%20theorems.pdf)
+    - EXTRAS
+        - [COSM- IMP QUESTIONS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/EXTRAS/COSM-%20IMP%20QUESTIONS.pdf)
+        - [COSM- IMP TOPICS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/EXTRAS/COSM-%20IMP%20TOPICS.pdf)
+        - [STATISTICAL TABLES.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/EXTRAS/STATISTICAL%20TABLES.pdf)
+        - [cosm DIGITAL NOTES.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COSM/EXTRAS/cosm%20DIGITAL%20NOTES.pdf)
+    -
     - CPP
+      - [CPP-IMP QUESTIONS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/CPP/CPP%20IMP%20QUES/CPP-IMP%20QUESTIONS.pdf)
+      - [CPP ASST.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/CPP/CPP%20HWR/CPP%20ASST.pdf)
       - [CPP UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/CPP/CPP%20UNIT-I.pdf)
       - [CPP UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/CPP/CPP%20UNIT-II.pdf)
       - [CPP UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/CPP/CPP%20UNIT-III.pdf)
@@ -79,6 +116,7 @@ This repository is organized by academic years and semesters, making it easy for
       - [DS UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/DS/DS%20UNIT-I.pdf)
       - [DS UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/DS/DS%20UNIT-II.pdf)
       - [DS UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/DS/DS%20UNIT-III.pdf)
+      - [ds asst.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/DS/DS%20HWN/ds%20asst.pdf)
   - **2nd Semester**
     - BEFA
       - [BEFA UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-I.pdf)
@@ -86,13 +124,19 @@ This repository is organized by academic years and semesters, making it easy for
       - [BEFA UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-III.pdf)
       - [BEFA UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-IV.pdf)
       - [BEFA UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-V.pdf)
+      - [befa qns hwn.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/befa%20hwn/befa%20qns%20hwn.pdf)
+
     - DBMS
       - [DBMS UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-I.pdf)
       - [DBMS UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-II.pdf)
       - [DBMS UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-III.pdf)
       - [DBMS UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-IV.pdf)
       - [DBMS UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-V.pdf)
+      - [DBMS mix.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20mix.pdf)
+      - [DM REV.pdf](https://getsrs.github.io/jntunotes/DM%20REV.pdf)
+
     - DM
+      - [DM REV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/DM/DM%20HWN/DM%20REV.pdf)
       - [DM UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-I.pdf)
       - [DM UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-II.pdf)
       - [DM UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-III.pdf)
