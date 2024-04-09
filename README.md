@@ -94,7 +94,7 @@ This repository is organized by academic years and semesters, making it easy for
     - DM
       - [DM UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-I.pdf)
       - [DM UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-II.pdf)
-      -       - [DM UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-III.pdf)
+      - [DM UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-III.pdf)
       - [DM UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-IV.pdf)
       - [DM UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DM/DM%20UNIT-V.pdf)
     - DPPM
