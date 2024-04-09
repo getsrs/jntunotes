@@ -55,9 +55,9 @@ This repository is organized by academic years and semesters, making it easy for
         - [PPS UNIT-IV.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20HWN/PPS%20UNIT-IV.pdf)
         - [PPS UNIT-V.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20HWN/PPS%20UNIT-V.pdf)
         - [PPS CW.pdf](https://getsrs.github.io/jntunotes/1st%20year/2nd%20sem/PPS/PPS%20HWN/PPS%20CW.pdf)
-     - **2nd year**
-  - **1st Semester**
-    - ADE
+  - **2nd year**
+   - **1st Semester**
+     - ADE
       - [ADE IMPORTANT QUESTIONS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20IMPORTANT%20QUESTIONS.pdf)
       - [ADE ROUGH.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/ADE%20ROUGH.pdf)
       - [A_DE - IMP QUESTIONS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/ADE/A_DE%20-%20IMP%20QUESTIONS.pdf)
@@ -111,9 +111,9 @@ This repository is organized by academic years and semesters, making it easy for
       - [OS UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-I.pdf)
       - [OS UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-II.pdf)
       - [OS UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-III.pdf)
-    - **3rd year**
+ - **3rd year**
   - **1st Semester**
-    - CN
+   - CN
       - [CN HWN](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/CN/CN%20HWN)
       - [CN UNIT-I.pdf](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/CN/CN%20UNIT-I.pdf)
       - [CN UNIT-II.pdf](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/CN/CN%20UNIT-II.pdf)
@@ -209,8 +209,8 @@ This repository is organized by academic years and semesters, making it easy for
       - [SL-UNIT - 3.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/SL/hwn/SL-UNIT%20-%203.pdf)
       - [SL-UNIT - 4.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/SL/hwn/SL-UNIT%20-%204.pdf)
       - [SL-UNIT - 5.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/SL/hwn/SL-UNIT%20-%205.pdf)
-    - **4th Year**
-    - **1st Semester**
+- **4th Year**
+ - **1st Semester**
   - CC
     - [CC LAQS.pdf](https://getsrs.github.io/jntunotes/4th%20year/1st%20sem/CC/CC%20LAQS.pdf)
   - CNS
