@@ -111,7 +111,7 @@ This repository is organized by academic years and semesters, making it easy for
       - [OS UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-I.pdf)
       - [OS UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-II.pdf)
       - [OS UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/OS/OS%20UNIT-III.pdf)
- - **3rd year**
+- **3rd year**
   - **1st Semester**
    - CN
       - [CN HWN](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/CN/CN%20HWN)
@@ -164,8 +164,8 @@ This repository is organized by academic years and semesters, making it easy for
       - [WT UNIT-IV.pdf](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/WT/WT%20UNIT-IV.pdf)
       - [WT UNIT-V.pdf](https://getsrs.github.io/jntunotes/3rd%20year/1st%20sem/WT/WT%20UNIT-V.pdf)
 - **2nd Semester**
-  - CD
-    - **Hwn**
+   - CD
+     - **Hwn**
       - [CD ASST.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/CD/Hwn/CD%20ASST.pdf)
       - [CD CW.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/CD/Hwn/CD%20CW.pdf)
       - [CD LAQS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/CD/Hwn/CD%20LAQS.pdf)
@@ -176,7 +176,7 @@ This repository is organized by academic years and semesters, making it easy for
       - [CD UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/CD/Hwn/CD%20UNIT-V.pdf)
       - [CD VSAQS.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/CD/Hwn/CD%20VSAQS.pdf)
   - DAA
-    - **Hwn**
+     - **Hwn**
       - [DAA CW.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DAA/Hwn/DAA%20CW.pdf)
       - [DAA UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DAA/Hwn/DAA%20UNIT-I.pdf)
       - [DAA UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DAA/Hwn/DAA%20UNIT-II.pdf)
@@ -184,7 +184,7 @@ This repository is organized by academic years and semesters, making it easy for
       - [DAA UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DAA/Hwn/DAA%20UNIT-IV.pdf)
       - [DAA UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DAA/Hwn/DAA%20UNIT-V.pdf)
   - DPPM
-    - **Hwn**
+      - **Hwn**
       - [dppm.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DPPM/Hwn/dppm.pdf)
       - [DPPM UNIT - I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DPPM/Hwn/DPPM%20UNIT%20-%20I.pdf)
       - [DPPM UNIT - II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DPPM/Hwn/DPPM%20UNIT%20-%20II.pdf)
@@ -211,9 +211,9 @@ This repository is organized by academic years and semesters, making it easy for
       - [SL-UNIT - 5.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/SL/hwn/SL-UNIT%20-%205.pdf)
 - **4th Year**
  - **1st Semester**
-  - CC
+   - CC
     - [CC LAQS.pdf](https://getsrs.github.io/jntunotes/4th%20year/1st%20sem/CC/CC%20LAQS.pdf)
-  - CNS
+   - CNS
     - [CNS CW.pdf](https://getsrs.github.io/jntunotes/4th%20year/1st%20sem/CNS/CNS%20CW.pdf)
     - [CNS LAQS.pdf](https://getsrs.github.io/jntunotes/4th%20year/1st%20sem/CNS/CNS%20LAQS.pdf)
     - [CNS REV.pdf](https://getsrs.github.io/jntunotes/4th%20year/1st%20sem/CNS/CNS%20REV.pdf)
