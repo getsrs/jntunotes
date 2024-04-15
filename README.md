@@ -79,12 +79,12 @@ This repository is organized by academic years and semesters, making it easy for
         - [unit-3 part 2 computer arithmetic.pdf](https://getsrs.github.io/jntunotes/2nd%20year/1st%20sem/COA/UNIT-3/unit-3%20part%202%20computer%20arithmetic.pdf)
   - **2nd Semester**
     - BEFA
-      - [befa hwn](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/befa%20hwn)
-      - [BEFA UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-I.pdf)
-      - [BEFA UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-II.pdf)
-      - [BEFA UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-III.pdf)
-      - [BEFA UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-IV.pdf)
-      - [BEFA UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/BEFA/BEFA%20UNIT-V.pdf)
+      - [befa hwn](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/befa%20hwn)
+      - [BEFA UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/BEFA%20UNIT-I.pdf)
+      - [BEFA UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/BEFA%20UNIT-II.pdf)
+      - [BEFA UNIT-III.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/BEFA%20UNIT-III.pdf)
+      - [BEFA UNIT-IV.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/BEFA%20UNIT-IV.pdf)
+      - [BEFA UNIT-V.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20%20sem/BEFA/BEFA%20UNIT-V.pdf)
     - DBMS
       - [DBMS UNIT-I.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-I.pdf)
       - [DBMS UNIT-II.pdf](https://getsrs.github.io/jntunotes/2nd%20year/2nd%20sem/DBMS/DBMS%20UNIT-II.pdf)
